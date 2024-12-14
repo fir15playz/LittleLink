@@ -2,8 +2,15 @@
 
 ## Current Version: v3.0.4
 
-### v3.0.5 - 12/7/2024
-- 
+### v3.0.5 - 12/13/2024
+
+#### Major Update!
+- Migrated to new Repository
+  - Updated index.html
+  - Updated style.css
+  - Updated brands.css
+  - Updated README.md
+ 
 
 ### v3.0.4 - 12/6/2024
 - Deleted old `LICENSE.md`
