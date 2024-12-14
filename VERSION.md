@@ -20,7 +20,7 @@
 - Update `index.html`
 
 ### v3.0.2 - 11/28/2024
-- Forked from Seth Cottel's [LittleLink](https://github.com/sethcottle/littlelink)
+- Forked from [Seth Cottel's LittleLink](https://github.com/sethcottle/littlelink)
   - Update `index.html`
   - Update `brands.css`
   - Added new Icons
