@@ -74,4 +74,4 @@ A complete modernization of LittleLink focusing on accessibility, maintainabilit
 
 ---
 For the complete history of changes, please visit:
-`Sorry i havent created any releces yet, will do soon! But you can see [Seth Cottle's Release notes](https://github.com/sethcottle/littlelink/releases)`
+Sorry i havent created any releces yet, will do soon! But you can see [Seth Cottle's Release notes](https://github.com/sethcottle/littlelink/releases)
