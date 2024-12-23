@@ -1,6 +1,11 @@
 # LittleLink Version History
 
-## Current Version: v3.0.4
+## Current Version: v3.0.6
+
+### v3.0.6 - 12/22/2024
+- Update index.html
+- Update privacy.html
+- Update LICENSE.html
 
 ### v3.0.5 - 12/13/2024
 
@@ -11,7 +16,6 @@
   - Updated brands.css
   - Updated README.md
  
-
 ### v3.0.4 - 12/6/2024
 - Deleted old `LICENSE.md`
 - Created new `LICENCE.md`
@@ -20,7 +24,7 @@
 - Update `index.html`
 
 ### v3.0.2 - 11/28/2024
-- Forked from [Seth Cottel's LittleLink](https://github.com/sethcottle/littlelink)
+- Forked from Seth Cottel's [LittleLink](https://github.com/sethcottle/littlelink)
   - Update `index.html`
   - Update `brands.css`
   - Added new Icons
@@ -74,4 +78,4 @@ A complete modernization of LittleLink focusing on accessibility, maintainabilit
 
 ---
 For the complete history of changes, please visit:
-Sorry i havent created any releces yet, will do soon! But you can see [Seth Cottle's Release notes](https://github.com/sethcottle/littlelink/releases)
+`Sorry i havent created any releces yet, will do soon! But you can see [Seth Cottle's Release notes](https://github.com/sethcottle/littlelink/releases)`
