@@ -38,13 +38,6 @@
 	--button-border:1px solid #ffffff;
 }
 
-/* Amazon */
-.button-Cools-OP-Items {
-	--button-text:#ffffff;
-	--button-background:#212121;
-	--button-border:1px solid #5a0000;
-}
-
 /* Amazon Music */
 .button-amazon-music {
 	--button-text:#000000;
@@ -133,12 +126,6 @@
 .button-cash-app {
 	--button-text:#ffffff;
 	background-image:linear-gradient(to bottom,#00d64b,#00c244);
-}
-
-/* Danger */
-.button-danger {
-	--button-text:#000000;
-	--button-background:#e22121;
 }
 
 /* dev.to */
@@ -412,6 +399,13 @@
 	--button-background:#FF4500;
 }
 
+/* Roblox */
+.button-roblox {
+	--button-text:#FFFFFF;
+	--button-background:#333333;
+	--button-border:1px solid #FFFFFF;
+}
+
 /* Shop */
 .button-shop {
 	--button-text:#ffffff;
@@ -596,4 +590,40 @@
 	--button-text:#ffffff;
 	--button-background:#0B5CFF;
   --button-border:1px solid #FFFFFF;
+}
+
+
+
+/* --- Coustom Buttons --- */
+
+/* Velocity SMP */
+.button-Velocity-SMP {
+	--button-text:#7d02db;
+	--button-background:#212529;
+	--button-border:1px solid #5305b3;
+}
+
+/* Cools OP Items */
+.button-Cools-OP-Items {
+	--button-text:#ffffff;
+	--button-background:#212121;
+	--button-border:1px solid #5a0000;
+}
+
+/* Danger */
+.button-danger {
+	--button-text:#000000;
+	background-image:linear-gradient(0deg,#ff3a3a,#ff0000);
+}
+
+/* NameMC */
+.button-namemc {
+	--button-text:#FFFFFF;
+	--button-background:#353535;
+}
+
+/* Github Gallery */
+.button-gallery {
+	--button-text:#ffffff;
+	--button-background:#353535;
 }
