@@ -1,6 +1,16 @@
 # LittleLink Version History
 
-## Current Version: v3.0.6
+## Current Version: v3.0.7
+
+### v3.0.7 - 1/17/2025
+- Update index.html
+- Update FUNDING.yml
+- Update brands.css
+- Added icons:
+  - roblox.svg
+  - velocity-smp.png
+
+More
 
 ### v3.0.6 - 12/22/2024
 - Update index.html
