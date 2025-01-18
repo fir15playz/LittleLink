@@ -9,6 +9,7 @@
 - Added icons:
   - roblox.svg
   - velocity-smp.png
+
 More
 
 ### v3.0.6 - 12/22/2024
